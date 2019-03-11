@@ -6,7 +6,7 @@ body {
 
 .container_chat {
     overflow-y: scroll;
-    height: 250px;
+    height: 200px;
     border: 2px solid #dedede;
     background-color: #f1f1f1;
     border-radius: 5px;
